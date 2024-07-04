@@ -8,7 +8,7 @@
 - :video_game: jogo Vava | Destiny 2 | call of duty
 
 ### Redes Sociais
-![![Linkedin](https://www.linkedin.com/in/rodrigo-silva-a68541238/)](https://www.linkedin.com/in/rodrigo-silva/)
+![Linkedin](https://www.linkedin.com/in/rodrigo-silva-a68541238/)](https://www.linkedin.com/in/rodrigo-silva/)
 
 ### Linguagens
 
