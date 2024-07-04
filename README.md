@@ -1,4 +1,4 @@
-#:brilhos: Seja bem-vindo(a)! :vulcan_salute:
+# :brilhos: Seja bem-vindo(a)! :vulcan_salute:
 
 ![](https://komarev.com/ghpvc/?username=Driiiq&color=000000)
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=jessicamedeirosp&countColorcountColor&countColor=%232979ff) ![Seguidores do GitHub](https://img.shields.io/github/followers/Driiiq?label=Follow&style=social)
