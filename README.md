@@ -1,7 +1,7 @@
 # :brilhos: Seja bem-vindo(a)! :vulcan_salute:
 
-! [](https://komarev.com/ghpvc/?username=jessicamedeirosp&color=000000)
-! [](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=jessicamedeirosp&countColorcountColor&countColor=%232979ff) ![Seguidores do GitHub](https://img.shields.io/github/followers/jessicamedeirosp?label=Follow&style=social)
+! [](https://komarev.com/ghpvc/?username=Driiiq&color=000000)
+! [](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=jessicamedeirosp&countColorcountColor&countColor=%232979ff) ![Seguidores do GitHub](https://img.shields.io/github/followers/Driiiq?label=Follow&style=social)
 
 - :computer: Desenvolvedor
 - :open_book: Estudante FullStack na Cubos Academy
