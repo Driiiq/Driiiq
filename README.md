@@ -5,7 +5,7 @@ Seja bem-vindo(a)! :vulcan_salute:
 
 - :computer: Desenvolvedor
 - :open_book: Estudante FullStack na Cubos Academy
-- :video_game: jogo Vava | Destiny 2 | call of duty
+- :video_game: jogo Vava | Destiny 2 | MW
 
 ### Redes Sociais
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/Driiiq/)
