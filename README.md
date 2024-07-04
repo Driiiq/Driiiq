@@ -1,15 +1,14 @@
-# :brilhos: Seja bem-vindo(a)! :vulcan_salute:
+#:brilhos: Seja bem-vindo(a)! :vulcan_salute:
 
-! [](https://komarev.com/ghpvc/?username=Driiiq&color=000000)
-! [](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=jessicamedeirosp&countColorcountColor&countColor=%232979ff) ![Seguidores do GitHub](https://img.shields.io/github/followers/Driiiq?label=Follow&style=social)
+![](https://komarev.com/ghpvc/?username=Driiiq&color=000000)
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=jessicamedeirosp&countColorcountColor&countColor=%232979ff) ![Seguidores do GitHub](https://img.shields.io/github/followers/Driiiq?label=Follow&style=social)
 
 - :computer: Desenvolvedor
 - :open_book: Estudante FullStack na Cubos Academy
 - :video_game: jogo Vava | Destiny 2 | call of duty
 
 ### Redes Sociais
-
-[![Linkedin](https://www.linkedin.com/in/rodrigo-silva-a68541238/)](https://www.linkedin.com/in/rodrigo-silva/)
+![![Linkedin](https://www.linkedin.com/in/rodrigo-silva-a68541238/)](https://www.linkedin.com/in/rodrigo-silva/)
 
 ### Linguagens
 
