@@ -22,6 +22,4 @@
 ![Node.js](https://img.shields.io/badge/Node.js-282C34?logo=node.js)
 ![Reagir](https://img.shields.io/badge/React-282C34?logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-282C34?logo=next.js)
-//![SASS](https://img.shields.io/badge/SASS-282C34?logo=sass)
-//![Vento de cauda CSS](https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css)
-//![Componentes com estilo](https://img.shields.io/badge/Styled%20components-282C34?logo=styled-components)
+
